@@ -1,0 +1,15 @@
+C:\Cisharp\HOMEWORK\Homewoek36\bin\Debug\net6.0\Homewoek36.exe
+C:\Cisharp\HOMEWORK\Homewoek36\bin\Debug\net6.0\Homewoek36.deps.json
+C:\Cisharp\HOMEWORK\Homewoek36\bin\Debug\net6.0\Homewoek36.runtimeconfig.json
+C:\Cisharp\HOMEWORK\Homewoek36\bin\Debug\net6.0\Homewoek36.dll
+C:\Cisharp\HOMEWORK\Homewoek36\bin\Debug\net6.0\Homewoek36.pdb
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\Homewoek36.csproj.AssemblyReference.cache
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\Homewoek36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\Homewoek36.AssemblyInfoInputs.cache
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\Homewoek36.AssemblyInfo.cs
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\Homewoek36.csproj.CoreCompileInputs.cache
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\Homewoek36.dll
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\refint\Homewoek36.dll
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\Homewoek36.pdb
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\Homewoek36.genruntimeconfig.cache
+C:\Cisharp\HOMEWORK\Homewoek36\obj\Debug\net6.0\ref\Homewoek36.dll
